@@ -71,4 +71,40 @@
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Fat/fat.rd.csp"
     },
+    {
+        "Name":"Husk",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+        "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+        "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Husk/Husk.rd.csp"
+      },
+      {
+        "Name":"Zapper",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+        "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+        "Rarity": "https://media.discordapp.net/attachments/1128736099070648361/1193041309125062708/wp3538839-2164485430.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/CountryZapper/CountryZapper.rd.csp"
+      },
+      {
+        "Name":"Sci-Fi Zapper",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/SciFiIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/SciFiIco.png?raw=true",
+        "Rarity": "https://media.discordapp.net/attachments/1128736099070648361/1193041309125062708/wp3538839-2164485430.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Scifi/SciFiZapper.rd.csp"
+      },
   ]
