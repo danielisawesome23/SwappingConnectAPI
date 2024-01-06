@@ -1,0 +1,178 @@
+[
+    {
+      "Name":"Default to Yeat",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/yeat.rd.csp"
+    },
+    {
+      "Name":"Default to Skeleton",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SkeletonIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SkeletonIco.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Skeleton.rd.csp"
+    },
+    {
+      "Name":"Default to Neon",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/NeonIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/NeonIco.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Neon.rd.csp"
+    },
+    {
+        "Name":"Default to Sage",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SageIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SageIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Sage.rd.csp"
+      },
+    {
+      "Name":"Default to Subway Cop",
+      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
+      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/fat.rd.csp"
+    },
+    {
+      "Name":"Default to Jake Bressler",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/JakeIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/JakeIco.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Jake.rd.csp"
+    },
+    {
+      "Name":"Default to STW Husk",
+      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Husk.rd.csp"
+    },
+    {
+      "Name":"Default to STW Zapper",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ZapIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ZapIco.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/CountryZapper.rd.csp"
+    },
+    {
+      "Name":"Default to STW Sci-Fi Zapper",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SciFiIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SciFiIco.png?raw=true",
+      "Type":0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/SciFiZapper.rd.csp"
+    },
+    {
+        "Name":"Default to Klombo",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/KlomboIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/KlomboIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Klombo.rd.csp"
+      },
+      {
+        "Name":"Default to M.X.E.S",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/MxesIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/MxesIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Mxes.rd.csp"
+      },
+      {
+        "Name":"Default to Glamrock Bonnie",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/BonnieIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/BonnieIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Bonnie.rd.csp"
+      },
+      {
+        "Name":"Default to Lego Ninjago Lloyd",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/LloydIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/LloydIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/lloyd.rd.csp"
+      },
+      {
+        "Name":"Default to Saul Goodman",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SaulIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SaulIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Saul.rd.csp"
+      },
+      {
+        "Name":"Default to Shadow Polo Prodigy",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PoloIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PoloIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Polo.rd.csp"
+      },
+      {
+        "Name":"Default to Prime Bottle",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PrimeIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PrimeIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Prime.rd.csp"
+      },
+      {
+        "Name":"Default to Galaxy Chun-Li",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChunLiIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChunLiIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/GalaxyChunLi.rd.csp"
+      },
+      {
+        "Name":"Default to Galaxy Chaos Agent",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChaosAgentIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChaosAgentIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/GalaxyAgent.rd.csp"
+      },
+      {
+        "Name":"Gingerbread Raider to Checkered Raider",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/RenegadeRaiderCheckerIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/RenegadeRaiderCheckerIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Please note this swaps from Gingerbread Raider",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/CheckeredRene.rd.csp"
+      },
+      {
+        "Name":"Re-OG to Boy's a Liar",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
+        "Type":4,
+        "DownloadMessage":"This converts from Re-OG",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/BoysALiar.rd.csp"
+      },
+      {
+        "Name":"Gun",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/GunIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/GunIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Bang Bang! This swaps from Jackie",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/ratedR.rd.csp"
+      },
+      {
+        "Name":"Chicken",
+        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChickenIco.png?raw=true",
+        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChickenIco.png?raw=true",
+        "Type":0,
+        "DownloadMessage":"Bang Bang! This swaps from Jackie",
+        "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/chickens.csp"
+      },
+  ]
