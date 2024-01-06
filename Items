@@ -167,6 +167,18 @@
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Gun/ratedR.rd.csp"
       },
+      {
+        "Name":"Prime",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/PrimeIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultIco.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1193050357853589524/1Cqre1DiBoW2rH5Mxt6fxUw.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Prime/Prime.rd.csp"
+      },
           {
         "Name":"Roasted Chicken",
         "CreatorName": "Məh",
