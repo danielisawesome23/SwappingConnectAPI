@@ -179,7 +179,7 @@
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Prime/Prime.rd.csp"
       },
-      {
+          {
         "Name":"Roasted Chicken",
         "CreatorName": "Məh",
         "Status": "Working",
@@ -191,13 +191,17 @@
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Chicken/chickens.rd.csp"
       },
-      {
+    {
         "Name":"Re-OG to Boy's a Liar",
+        "CreatorName": "Məh",
+        "Status": "Working",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
-        "Type":4,
-        "DownloadMessage":"This converts from Re-OG",
+        "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1193054534747037736/d60f48f2303767fbdebc81f23b4b906d.png",
+        "VerifiedUser": true,
+        "Type": 4,
+        "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/BoysALiar.rd.csp"
       }
-  
+
   ]
