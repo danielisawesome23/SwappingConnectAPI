@@ -1,6 +1,6 @@
 [
     {
-      "Name":"Default to Yeat",
+      "Name":"Yeat",
       "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
       "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
       "Type":0,
@@ -8,7 +8,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/yeat.rd.csp"
     },
     {
-      "Name":"Default to Skeleton",
+      "Name":"Skeleton",
       "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SkeletonIco.png?raw=true",
       "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SkeletonIco.png?raw=true",
       "Type":0,
@@ -16,7 +16,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Skeleton.rd.csp"
     },
     {
-      "Name":"Default to Neon",
+      "Name":"Neon",
       "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/NeonIco.png?raw=true",
       "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/NeonIco.png?raw=true",
       "Type":0,
@@ -24,7 +24,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Neon.rd.csp"
     },
     {
-        "Name":"Default to Sage",
+        "Name":"Sage",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SageIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SageIco.png?raw=true",
         "Type":0,
@@ -32,7 +32,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Sage.rd.csp"
       },
     {
-      "Name":"Default to Subway Cop",
+      "Name":"Subway Cop",
       "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
       "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
       "Type":0,
@@ -40,7 +40,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/fat.rd.csp"
     },
     {
-      "Name":"Default to Jake Bressler",
+      "Name":"Jake Bressler",
       "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/JakeIco.png?raw=true",
       "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/JakeIco.png?raw=true",
       "Type":0,
@@ -48,7 +48,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Jake.rd.csp"
     },
     {
-      "Name":"Default to STW Husk",
+      "Name":"STW Husk",
       "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
       "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/Husk/Icon.png?raw=true",
       "Type":0,
@@ -56,7 +56,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Husk.rd.csp"
     },
     {
-      "Name":"Default to STW Zapper",
+      "Name":"STW Zapper",
       "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ZapIco.png?raw=true",
       "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ZapIco.png?raw=true",
       "Type":0,
@@ -64,7 +64,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/CountryZapper.rd.csp"
     },
     {
-      "Name":"Default to STW Sci-Fi Zapper",
+      "Name":"STW Sci-Fi Zapper",
       "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SciFiIco.png?raw=true",
       "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SciFiIco.png?raw=true",
       "Type":0,
@@ -72,7 +72,7 @@
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/SciFiZapper.rd.csp"
     },
     {
-        "Name":"Default to Klombo",
+        "Name":"Klombo",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/KlomboIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/KlomboIco.png?raw=true",
         "Type":0,
@@ -80,7 +80,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Klombo.rd.csp"
       },
       {
-        "Name":"Default to M.X.E.S",
+        "Name":"M.X.E.S",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/MxesIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/MxesIco.png?raw=true",
         "Type":0,
@@ -88,7 +88,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Mxes.rd.csp"
       },
       {
-        "Name":"Default to Glamrock Bonnie",
+        "Name":"Glamrock Bonnie",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/BonnieIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/BonnieIco.png?raw=true",
         "Type":0,
@@ -96,7 +96,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Bonnie.rd.csp"
       },
       {
-        "Name":"Default to Lego Ninjago Lloyd",
+        "Name":"Lego Ninjago Lloyd",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/LloydIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/LloydIco.png?raw=true",
         "Type":0,
@@ -104,7 +104,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/lloyd.rd.csp"
       },
       {
-        "Name":"Default to Saul Goodman",
+        "Name":"Saul Goodman",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SaulIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/SaulIco.png?raw=true",
         "Type":0,
@@ -112,7 +112,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Saul.rd.csp"
       },
       {
-        "Name":"Default to Shadow Polo Prodigy",
+        "Name":"Shadow Polo Prodigy",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PoloIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PoloIco.png?raw=true",
         "Type":0,
@@ -120,7 +120,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Polo.rd.csp"
       },
       {
-        "Name":"Default to Prime Bottle",
+        "Name":"Prime Bottle",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PrimeIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/PrimeIco.png?raw=true",
         "Type":0,
@@ -128,7 +128,7 @@
         "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/Prime.rd.csp"
       },
       {
-        "Name":"Default to Galaxy Chun-Li",
+        "Name":"Galaxy Chun-Li",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChunLiIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChunLiIco.png?raw=true",
         "Type":0,
@@ -136,7 +136,7 @@
         "DownloadURL":"https://github.com/pilchad/Swapping-Connect-Api/raw/main/Content/GalaxyChunLi.rd.csp"
       },
       {
-        "Name":"Default to Galaxy Chaos Agent",
+        "Name":"Galaxy Chaos Agent",
         "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChaosAgentIco.png?raw=true",
         "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/ChaosAgentIco.png?raw=true",
         "Type":0,
