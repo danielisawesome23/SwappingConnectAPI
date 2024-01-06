@@ -47,4 +47,28 @@
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Sage/Sage.rd.csp"
     },
+    {
+      "Name":"Jake Brussler",
+      "CreatorName": "Məh",
+      "Status": "Working",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/JakeIco.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/JakeIco.png?raw=true",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193039200933654678/subwaysurfers_banner.png",
+      "VerifiedUser": true,
+      "Type": 0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Jake/Jake.rd.csp"
+    },
+    {
+      "Name":"Subway Cop",
+      "CreatorName": "Məh",
+      "Status": "Working",
+      "Icon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
+      "SwapIcon":"https://github.com/Tamely/SaturnMarketplace/blob/main/SubwayCop/Icon.png?raw=true",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193039200933654678/subwaysurfers_banner.png",
+      "VerifiedUser": true,
+      "Type": 0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Fat/fat.rd.csp"
+    },
   ]
