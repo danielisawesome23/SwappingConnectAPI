@@ -143,4 +143,28 @@
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Bonnie/Bonnie.rd.csp"
       },
+      {
+        "Name":"Saul Goodman",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/SaulIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/SaulIco.png?raw=true",
+        "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193045843608096787/BetterCallSaul-OriginalSoundtrack-Banner.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Saul/Saul.rd.csp"
+      },
+      {
+        "Name":"Fortnite Gun",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/GunIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/GunIco.png?raw=true",
+        "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193045843134136320/featured.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Gun/ratedR.rd.csp"
+      },
   ]
