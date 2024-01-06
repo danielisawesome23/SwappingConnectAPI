@@ -10,5 +10,17 @@
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
       "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/yeat.rd.csp"
+    },
+    {
+      "Name":"Yeat",
+      "CreatorName": "Məh",
+      "Status": "Partial",
+      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
+      "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
+      "Rarity": "https://cdn.discordapp.com/attachments/1118215535558152286/1180635382094762025/rare.png",
+      "VerifiedUser": true,
+      "Type": 0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://mehs-plugin-marketplace.meh19.repl.co/skin/yeat.rd.csp"
     }
   ]
