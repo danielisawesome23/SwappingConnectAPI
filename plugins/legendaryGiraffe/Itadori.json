@@ -1,0 +1,117 @@
+{
+    "Name": "Holiday Boxy To Itadori",
+    "Icon": "https://fortnite.gg/img/items/10007/icon.png?2",
+    "Swapicon": "https://fortnite.gg/img/items/11010/icon.png?2",
+    "Message": "Made By LegendaryGiraffe",
+    "Assets": [
+        {
+            "AssetPath": "FortniteGame/Content/Athena/Items/Cosmetics/Characters/Character_CardboardCrew_Holiday",
+            "Swaps": [
+                {
+                    "type": "string",
+                    "search": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_CardboardCrew_Holiday.CP_Athena_Body_F_CardboardCrew_Holiday",
+                    "replace": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Fallback.CP_Athena_Body_F_Fallback"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/CharacterParts/Female/Medium/Heads/CP_Athena_Head_F_CardboardCrew_Holiday.CP_Athena_Head_F_CardboardCrew_Holiday",
+                    "replace": "/Game/Characters/CharacterParts/Common/CP_Head_Med_Empty.CP_Head_Med_Empty"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_CardboardCrew_Holiday_FaceAcc.CP_F_MED_CardboardCrew_Holiday_FaceAcc",
+                    "replace": "/Game/Characters/CharacterParts/FaceAccessories/CP_M_FaceAcc_Empty.CP_M_FaceAcc_Empty"
+                }
+            ]
+        },
+        {
+            "AssetPath": "/Game/Characters/CharacterParts/FaceAccessories/CP_F_MED_CardboardCrew_Holiday_FaceAcc",
+            "AssetPathTo": "/Game/Athena/Heroes/Meshes/Heads/F_Med_Soldier_Helmet_BR039",
+            "Swaps": [
+                {
+                    "type": "string",
+                    "search": "CP_F_MED_CardboardCrew_Holiday_FaceAcc",
+                    "replace": "F_Med_Soldier_Helmet_BR039"
+                }
+            ]
+        },
+        {
+            "AssetPath": "/Game/Athena/Heroes/Meshes/Bodies/CP_Athena_Body_F_Fallback",
+            "AssetPathTo": "/Game/Athena/Heroes/Meshes/Bodies/CP_Body_Commando_F_WitchIcewater",
+            "Swaps": [
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Commando_Witch_Fire/Meshes/F_MED_Witch_Fire.F_MED_Witch_Fire",
+                    "replace": "/Itadori/itadori.itadori",
+                    "UEFN": true
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Witch/Meshes/F_MED_Witch_ABP.F_MED_Witch_ABP_C",
+                    "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BirdNest/Meshes/M_MED_BirdNest_AnimBP.M_MED_BirdNest_AnimBP_C"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/Wizard-Witch_Icewater/MI_IceWaterHands_Witch-Wizard.MI_IceWaterHands_Witch-Wizard",
+                    "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BirdNest/Materials/M_MED_BirdNest_Body.M_MED_BirdNest_Body"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Witch/Skins/Icewater/Materials/MI_Witch_Icewater_Body.MI_Witch_Icewater_Body",
+                    "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BirdNest/Materials/M_MED_BirdNest_Head.M_MED_BirdNest_Head"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/Player/Female/Medium/Bodies/F_MED_Witch/Skins/Icewater/Materials/MI_Witch_Icewater_Glass.MI_Witch_Icewater_Glass",
+                    "replace": "/Game/Characters/Player/Male/Medium/Bodies/M_MED_BirdNest/Materials/M_MED_BirdNest_FaceAcc.M_MED_BirdNest_FaceAcc"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Effects/Fort_Effects/Effects/Characters/Athena_Parts/Wizard-Witch_Icewater/P_Witch_IceWater_Light.P_Witch_IceWater_Light",
+                    "replace": "/Game/Effects/Fort_Effects/Effects/P_BlankEffect.P_BlankEffect"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Athena/Cosmetics/Blueprints/Part_Modifiers/B_Athena_PartModifier_Witch_IceWater_Loop.B_Athena_PartModifier_Witch_IceWater_Loop_C",
+                    "replace": "/Game/Athena/Cosmetics/Blueprints/B_Athena_PartModifier_Generic.B_Athena_PartModifier_Generic_C"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/Characters/Player/Female/Medium/Base/SK_M_Female_Base_Skeleton.SK_M_Female_Base_Skeleton",
+                    "replace": "/Game/Characters/Player/Male/Medium/Base/SK_M_MALE_Base_Skeleton.SK_M_MALE_Base_Skeleton"
+                },
+                {
+                    "type": "hex",
+                    "search": "05 02 00 00 00",
+                    "replace": "05 63 00 00 00"
+                },
+                {
+                    "type": "hex",
+                    "search": "05 03 00 00 00",
+                    "replace": "05 02 00 00 00"
+                }
+            ]
+        },
+        {
+            "AssetPath": "FortniteGame/Content/Athena/Heroes/Hero_CardboardCrew_Holiday",
+            "Swaps": [
+                {
+                    "type": "string",
+                    "search": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-CardBoardCrew-Holiday.T-Soldier-Hero-CardBoardCrew-Holiday",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S25/T-Soldier-Hero-BirdNest.T-Soldier-Hero-BirdNest"
+                },
+                {
+                    "type": "string",
+                    "search": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S28/T-Soldier-Hero-CardBoardCrew-Holiday-L.T-Soldier-Hero-CardBoardCrew-Holiday-L",
+                    "replace": "/Game/UI/Foundation/Textures/Icons/Heroes/Athena/Soldier/S25/T-Soldier-Hero-BirdNest.T-Soldier-Hero-BirdNest"
+                }
+            ]
+        }
+      ],
+      "Downloadables": [
+          {
+              "zip": "https://cdn.discordapp.com/attachments/866832446832902155/1190457217711882343/a44a7932-4d8a-b7cf-684c-b1a00777745e-fyhPCUU8_DC34gmBG2aTNQ.zip?ex=65a1deae&is=658f69ae&hm=b789d8fd2009b9ad5cacc8726f11ee49420054bf1d9cbf3f22f349484bb5695b&"
+          }
+      ]
+   }
+   
