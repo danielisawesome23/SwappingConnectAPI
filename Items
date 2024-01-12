@@ -238,18 +238,6 @@
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/jydn/DefaulttoGhoul%20Trooper%20_PINK_.rd.csp"
-      },
-      {
-        "Name":"Megumi Fushiguro",
-        "CreatorName": "legendaryGiraffe",
-        "Status": "Working",
-        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/legendaryGiraffe/Megumi.png?raw=true",
-        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/boxy.png?raw=true",
-        "Rarity": "https://media.discordapp.net/attachments/1193762443114057819/1193764778531881020/391b3827325e6df46999ee83418fc36a.png",
-        "VerifiedUser": true,
-        "Type": 0,
-        "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/legendaryGiraffe/Megumi.json"
       }
 
   ]
