@@ -204,6 +204,30 @@
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Bonnie.rd.csp"
       },
       {
+        "Name":"Ghoul Renegade",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/RenegadeGhoulIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/995288416671518752/1195850482334322698/ScreenShot00000.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoGhoulRenegade_Raider.rd.csp"
+      },
+      {
+        "Name":"Pink Ghoul Renegade",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/RenegadeGhoulPinkIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/995288416671518752/1195850482334322698/ScreenShot00000.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoPinkGhoulRenegade_Raider.rd.csp"
+      },
+      {
         "Name":"Saul Goodman",
         "CreatorName": "Məh",
         "Status": "Working",
@@ -217,7 +241,7 @@
       },
       {
         "Name":"Fortnite Gun",
-        "CreatorName": "Məh",
+        "CreatorName": "Valve",
         "Status": "Working",
         "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/GunIco.png?raw=true",
         "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/jackie.png?raw=true",
@@ -241,7 +265,7 @@
       },
           {
         "Name":"Roasted Chicken",
-        "CreatorName": "Məh",
+        "CreatorName": "Valve",
         "Status": "Working",
         "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/ChickenIco.png?raw=true",
         "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/jackie.png?raw=true",
