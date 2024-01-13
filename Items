@@ -3,13 +3,13 @@
       "Name":"Yeat",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/YeatIco.png?raw=true",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/YeatIco.png?raw=true",
       "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
       "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193021901249974313/yeat-twizzy.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://cdn.discordapp.com/attachments/1128736099070648361/1193309135127707748/yeat.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Yeat.rd.csp"
     },
     {
       "Name":"Skeleton",
@@ -21,7 +21,7 @@
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Skeleton/Skeleton.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Skeleton.rd.csp"
     },
     {
       "Name":"Neon",
@@ -33,7 +33,7 @@
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Neon/Neon.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Neon.rd.csp"
     },
     {
       "Name":"Sage",
@@ -45,7 +45,7 @@
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Sage/Sage.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Sage.rd.csp"
     },
     {
       "Name":"Jake Brussler",
@@ -57,7 +57,7 @@
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Jake/Jake.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Jake.rd.csp"
     },
     {
       "Name":"Subway Cop",
@@ -69,7 +69,7 @@
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Fat/fat.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Fat.rd.csp"
     },
     {
         "Name":"Husk",
@@ -81,7 +81,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Husk/Husk.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Husk.rd.csp"
       },
       {
         "Name":"Zapper",
@@ -93,7 +93,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/CountryZapper/CountryZapper.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/CountryZapper.rd.csp"
       },
       {
         "Name":"Sci-Fi Zapper",
@@ -105,7 +105,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Scifi/SciFiZapper.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/SciFiZapper.rd.csp"
       },
       {
       "Name":"Lloyd",
@@ -117,7 +117,7 @@
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please note this might kick",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Lloyd/lloyd.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Lloyd.rd.csp"
     },
     {
         "Name":"M.X.E.S",
@@ -129,7 +129,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Mxes/Mxes.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Mxes.rd.csp"
       },
       {
         "Name":"Glamrock Bonnie",
@@ -141,7 +141,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Bonnie/Bonnie.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Bonnie.rd.csp"
       },
       {
         "Name":"Saul Goodman",
@@ -153,7 +153,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Saul/Saul.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Saul.rd.csp"
       },
       {
         "Name":"Fortnite Gun",
@@ -165,7 +165,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Gun/ratedR.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Gun.rd.csp"
       },
       {
         "Name":"Prime",
@@ -177,7 +177,7 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Prime/Prime.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Prime.rd.csp"
       },
           {
         "Name":"Roasted Chicken",
@@ -189,14 +189,14 @@
         "VerifiedUser": true,
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/saturn/Chicken/chickens.rd.csp"
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Chicken.rd.csp"
       },
     {
         "Name":"Re-OG to Boy's a Liar",
         "CreatorName": "Məh",
         "Status": "Working",
-        "Icon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
-        "SwapIcon":"https://github.com/pilchad/Swapping-Connect-Api/blob/main/Icon/IceSpiceMusic.png?raw=true",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/IceSpiceMusic.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/IceSpiceMusic.png?raw=true",
         "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1193054534747037736/d60f48f2303767fbdebc81f23b4b906d.png",
         "VerifiedUser": true,
         "Type": 6,
@@ -214,18 +214,6 @@
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/jydn/DefaulttoRenegade%20Raider.rd.csp"
-      },
-      {
-        "Name":"Checkered Renegade Raider",
-        "CreatorName": "Pheonn",
-        "Status": "Working",
-        "Icon":"https://cdn.discordapp.com/attachments/1128736099070648361/1193764399752683660/Checkers.png",
-        "SwapIcon":"https://cdn.discordapp.com/attachments/1128736099070648361/1193275845343727627/icon.webp",
-        "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193254835282255912/Rare_Weapon_Rarity_Background.PNG",
-        "VerifiedUser": true,
-        "Type": 0,
-        "DownloadMessage":"Please note this might kick",
-        "DownloadURL":"https://cdn.discordapp.com/attachments/1118215535558152286/1193693407743316108/CheckeredReneNormal_Icon.rd.csp"
       },
       {
         "Name":"Pink Ghoul Trooper",
