@@ -48,6 +48,54 @@
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Sage.rd.csp"
     },
     {
+        "Name":"Shadow Polo Prodigy",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/PoloIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195849941843706008/Most_Wanted_Quest_Background.JPG",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Polo.rd.csp"
+      },
+      {
+        "Name":"Shadow Summit-Striker Evie",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/StrikerIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195849941843706008/Most_Wanted_Quest_Background.JPG",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Summitseeker.rd.csp"
+      },
+      {
+        "Name":"Shadow Kuno",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/KunoIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195849941843706008/Most_Wanted_Quest_Background.JPG",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Kuno.rd.csp"
+      },
+      {
+        "Name":"Employee",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/Lethal.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195851144480694362/How-to-Use-Bigger-Lobby-Mod-in-Lethal-Company.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Lethal.rd.csp"
+      },
+    {
       "Name":"Jake Brussler",
       "CreatorName": "Məh",
       "Status": "Working",
@@ -106,6 +154,18 @@
         "Type": 0,
         "DownloadMessage":"Please note this might kick",
         "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/SciFiZapper.rd.csp"
+      },
+      {
+        "Name":"Storm King",
+        "CreatorName": "Məh",
+        "Status": "Working",
+        "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/StormKingIco.png?raw=true",
+        "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+        "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png",
+        "VerifiedUser": true,
+        "Type": 0,
+        "DownloadMessage":"Please note this might kick",
+        "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/StormKing.rd.csp"
       },
       {
       "Name":"Lloyd",
