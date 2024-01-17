@@ -12,6 +12,18 @@
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Yeat.rd.csp"
     },
     {
+      "Name":"Dogecoin",
+      "CreatorName": "Məh",
+      "Status": "Working",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/DogeIco.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197065519992418365/lnn013m32ss01.png",
+      "VerifiedUser": true,
+      "Type": 0,
+      "DownloadMessage":"Please note this might kick",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Doge.rd.csp"
+    },
+    {
       "Name":"Saturn Banner",
       "CreatorName": "Məh",
       "Status": "Working",
@@ -24,6 +36,18 @@
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Saturn.rd.csp"
     },
     {
+      "Name":"Galaxy Banner",
+      "CreatorName": "Məh",
+      "Status": "Working",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/Galaxy.png?raw=true",
+      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197062698840621076/background.png",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197062757237915708/image.png",
+      "VerifiedUser": true,
+      "Type": 4,
+      "DownloadMessage":"",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Galaxy.rd.csp"
+    },
+    {
       "Name":"Funked Up!",
       "CreatorName": "nyaku",
       "Status": "Working",
@@ -31,7 +55,7 @@
       "SwapIcon":"https://media.discordapp.net/attachments/932709983093669928/1196985144163192902/Boogie_Down_-_Emote_-_Fortnite_1.png?",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197062757237915708/image.png",
       "VerifiedUser": true,
-      "Type": 4,
+      "Type": 3,
       "DownloadMessage":"",
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/galaxy/FunkedUp.plugin"
     },
