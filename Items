@@ -16,12 +16,24 @@
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/Saturn.png?raw=true",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197062698840621076/background.png?ex=65b9e683&is=65a77183&hm=c38e03bbf3964e66029b59c380befd1f3c04e8114d74b4c0b4aabe5b0b84f76d&",
-      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197062757237915708/image.png?ex=65b9e691&is=65a77191&hm=36310bf5efc2c9be9abe061cdddbf3fc9d91cd53dea3a1979755c2c2fccd0b48&",
+      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197062698840621076/background.png",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197062757237915708/image.png",
       "VerifiedUser": true,
       "Type": 4,
       "DownloadMessage":"",
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Saturn.rd.csp"
+    },
+    {
+      "Name":"Funked Up!",
+      "CreatorName": "nyaku",
+      "Status": "Working",
+      "Icon":"https://media.discordapp.net/attachments/932709983093669928/1196985032133328997/Boogie_Down_-_Emote_-_Fortnite.png",
+      "SwapIcon":"https://media.discordapp.net/attachments/932709983093669928/1196985144163192902/Boogie_Down_-_Emote_-_Fortnite_1.png?",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197062757237915708/image.png",
+      "VerifiedUser": true,
+      "Type": 4,
+      "DownloadMessage":"",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/galaxy/FunkedUp.plugin"
     },
     {
       "Name":"Skeleton",
