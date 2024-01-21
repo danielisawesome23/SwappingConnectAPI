@@ -9,7 +9,20 @@
         "ShowCaseImage": "https://cdn.discordapp.com/attachments/1128736099070648361/1198715645701914845/middlefinger.png",
         "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
         "VerifiedUser": true,
-        "Description":"Wanna be toxic but can't because fortnite is Family Friendly? Well this plugin fixes this!",
+        "Description":"Wanna be toxic but can't because fortnite is Family Friendly? Well this plugin fixes this! Swaps From RE-OG. King's Seal",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1197264161361633331/1197264162603147305/Kings_Seal_To_Middle_Finger_Spray.rd.csp"
+    },
+    {
+        "Name":"Dead Or Alive",
+        "CreatorName": "gnnoor",
+        "Status": "Working",
+        "Swapper": "Galaxy",
+        "Type": "Lobby Music",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198740568164020294/liltecca1.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198740568164020294/liltecca1.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
+        "VerifiedUser": true,
+        "Description":"Wanna listen to some artist that aren't in the game like lil tecca? This plugin Works! Swaps From RE-OG.",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198715170504056913/1198715171611365386/lilteccadeadoralive.json"
     }
 ]
