@@ -39,6 +39,19 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198820252994261022/1198820253770199192/ArcticAdelinetoTravisScott.rd.csp"
     },
     {
+        "Name":"The re-og to Oh Oh Oh - Juice wrld",
+        "CreatorName": "uira",
+        "Status": "Working",
+        "Swapper": "Galaxy",
+        "Type": "Lobby Music",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198940335800320060/jcwrld.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198940335468986408/jcwrodl.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
+        "VerifiedUser": true,
+        "Description":"The re-og to Oh Oh Oh - Juice wrld",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198836677670617199/1198836677775458304/cvw.json"
+    },
+    {
         "Name":"Re-OG to VALORANT: Defiance",
         "CreatorName": "br0ke",
         "Status": "Working",
@@ -50,6 +63,19 @@
         "VerifiedUser": true,
         "Description":"Converts the Re-OG lobby music to the new VALORANT main menu theme.",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1196572569176911922/1196572570061914173/valorant-ep8.rd.csp"
+    },
+    {
+        "Name":"Trance Lobby Music Travis Scott And Metro",
+        "CreatorName": "Noor",
+        "Status": "Working",
+        "Swapper": "Galaxy",
+        "Type": "Lobby Music",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198941587682627695/soeoeoeoier.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198941596222230538/werwtrwrwrww.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
+        "VerifiedUser": true,
+        "Description":"Converts the Re-OG lobby music to the new VALORANT main menu theme.",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198715587858272446/1198715588256739378/trance.json"
     },
     {
         "Name":"The Amazing Spider-Man 2",
