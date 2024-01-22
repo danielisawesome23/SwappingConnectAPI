@@ -24,5 +24,18 @@
         "VerifiedUser": true,
         "Description":"Wanna listen to some artist that aren't in the game like lil tecca? This plugin Works! Swaps From RE-OG.",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198715170504056913/1198715171611365386/lilteccadeadoralive.json"
+    },
+    {
+        "Name":"Travis Scott",
+        "CreatorName": "meh19",
+        "Status": "Working",
+        "Swapper": "Saturn",
+        "Type": "Skin",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198824673543213096/featured.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198824673203462174/travisScott.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
+        "VerifiedUser": true,
+        "Description":"Be La Flame. This Swaps Arctic Adeline to Travis Scott",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198820252994261022/1198820253770199192/ArcticAdelinetoTravisScott.rd.csp"
     }
 ]
