@@ -76,5 +76,31 @@
         "VerifiedUser": true,
         "Description":"Im not seeing enough movement! This Swaps From Boogie Down",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198375813079384094/1198375813616250910/BoogieDowntoFloss.rd.csp"
+    },
+    {
+        "Name":"Renegade Raider (LEGO)",
+        "CreatorName": "meh19",
+        "Status": "Working",
+        "Swapper": "Saturn",
+        "Type": "Skin",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198934436323012608/lego.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198935610421936168/RenegadeLego.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
+        "VerifiedUser": true,
+        "Description":"Rare Plastic Renegade Raider Outfit.",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198912154724728843/1198912155504885830/HolidayBoxytoRenegadeRaiderLEGO.rd.csp"
+    },
+    {
+        "Name":"Blue Squire (LEGO)",
+        "CreatorName": "meh19",
+        "Status": "Working",
+        "Swapper": "Saturn",
+        "Type": "Skin",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198934993670524938/lego.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198935610799431760/BlueLego.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
+        "VerifiedUser": true,
+        "Description":"The bold, plastic warrior of Moisty Mire.",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198931791088734298/1198931791868866561/HolidayBoxytoBlueSquire.rd.csp"
     }
 ]
