@@ -31,11 +31,24 @@
         "Status": "Working",
         "Swapper": "Saturn",
         "Type": "Skin",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198825310620237884/featured.png",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198824673543213096/featured.png",
         "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198824673203462174/travisScott.png",
         "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
         "VerifiedUser": true,
-        "Description":"Be La Flame. This Swaps Arctic Adeline to Travis Scott",
+        "Description":"Be La Flame. This Swaps From Arctic Adeline",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198820252994261022/1198820253770199192/ArcticAdelinetoTravisScott.rd.csp"
+    },
+    {
+        "Name":"The Amazing Spider-Man 2",
+        "CreatorName": "DHedge, Ported by EpicDoge",
+        "Status": "Working",
+        "Swapper": "Saturn",
+        "Type": "Skin",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198826196255912087/7626_the-amazing-spiderman-2-prev-2230110265.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198826187284287569/tasm2.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198826634212544522/MarvelSeries.png",
+        "VerifiedUser": true,
+        "Description":"With Great Power Must Come Great Responsibility . This Swaps From Prisoner Origin",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198744787117949089/1198744788044890152/Amazing_Spider-Man_2_Marvels_Spider-Man_2.rd.csp"
     }
 ]
