@@ -50,5 +50,31 @@
         "VerifiedUser": true,
         "Description":"With Great Power Must Come Great Responsibility . This Swaps From Prisoner Origin",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198744787117949089/1198744788044890152/Amazing_Spider-Man_2_Marvels_Spider-Man_2.rd.csp"
+    },
+    {
+        "Name":"OG Pump Shotgun",
+        "CreatorName": "zer0cipher",
+        "Status": "Working",
+        "Swapper": "Galaxy",
+        "Type": "Weapon",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198828742349422603/OGpump.PNG",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828752101179462/PumpShotty.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
+        "VerifiedUser": true,
+        "Description":"Go back in time. This Swaps From Hammer Pump Shotgun",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198729682527469759/1198729683299205221/Hammer_Pump_To_OG_Pump_Shotgun.plugin"
+    },
+    {
+        "Name":"Floss",
+        "CreatorName": "meh19",
+        "Status": "Working",
+        "Swapper": "Saturn",
+        "Type": "Emote",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198829775838515330/floss.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198829763729571890/flossbg.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
+        "VerifiedUser": true,
+        "Description":"Im not seeing enough movement! This Swaps From Boogie Down",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1198375813079384094/1198375813616250910/BoogieDowntoFloss.rd.csp"
     }
 ]
