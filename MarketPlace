@@ -39,6 +39,19 @@
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198820252994261022/1198820253770199192/ArcticAdelinetoTravisScott.rd.csp"
     },
     {
+        "Name":"Re-OG to VALORANT: Defiance",
+        "CreatorName": "br0ke",
+        "Status": "Working",
+        "Swapper": "Saturn",
+        "Type": "Lobby Music",
+        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198939082517119036/defiance.png",
+        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198939100581990460/Defiance2.png",
+        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
+        "VerifiedUser": true,
+        "Description":"Converts the Re-OG lobby music to the new VALORANT main menu theme.",
+        "DownloadURL":"https://cdn.discordapp.com/attachments/1196572569176911922/1196572570061914173/valorant-ep8.rd.csp"
+    },
+    {
         "Name":"The Amazing Spider-Man 2",
         "CreatorName": "DHedge, Ported by EpicDoge",
         "Status": "Working",
@@ -102,18 +115,5 @@
         "VerifiedUser": true,
         "Description":"The bold, plastic warrior of Moisty Mire.",
         "DownloadURL":"https://cdn.discordapp.com/attachments/1198931791088734298/1198931791868866561/HolidayBoxytoBlueSquire.rd.csp"
-    },
-    {
-        "Name":"Re-OG to VALORANT: Defiance",
-        "CreatorName": "br0ke",
-        "Status": "Working",
-        "Swapper": "Saturn",
-        "Type": "Lobby Music",
-        "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1198939082517119036/defiance.png",
-        "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1198939100581990460/Defiance2.png",
-        "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198717301978042379/CreatorCollabSeries.png",
-        "VerifiedUser": true,
-        "Description":"Converts the Re-OG lobby music to the new VALORANT main menu theme.",
-        "DownloadURL":"https://cdn.discordapp.com/attachments/1196572569176911922/1196572570061914173/valorant-ep8.rd.csp"
     }
 ]
