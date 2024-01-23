@@ -464,7 +464,7 @@
       "DownloadMessage":"Wyh do my chickens keep blowing up!",
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Chicken.rd.csp"
     },
-  {
+    {
       "Name":"Re-OG to Backr00ms",
       "CreatorName": "Məh",
       "Status": "Working",
@@ -475,6 +475,19 @@
       "Type": 6,
       "DownloadMessage":"Playboi Carti's Latest Release.",
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Backr00ms.rd.csp"
+    },
+    {
+      "Name":"Skull Trooper (Green Glow) to Purple Skull trooper",
+      "CreatorName": "Daniel",
+      "Status": "Working",
+      "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1199185731625680996/purpleskull.png",
+      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1199185717868368085/PurpleSkullBG.png",
+      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197061698092290068/360.png",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1199186112405590016/epic.png",
+      "VerifiedUser": true,
+      "Type": 6,
+      "DownloadMessage":"Victory runs bone-deep.",
+      "DownloadURL":"https://cdn.discordapp.com/attachments/1126595847178686565/1199186325136486470/PurpleSkullTrooper.rd.csp"
     }
 
 ]
