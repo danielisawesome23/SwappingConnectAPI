@@ -482,12 +482,24 @@
       "Status": "Working",
       "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1199185731625680996/purpleskull.png",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1199185717868368085/PurpleSkullBG.png",
-      "SwapIcon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197061698092290068/360.png",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1199186112405590016/epic.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Victory runs bone-deep.",
       "DownloadURL":"https://cdn.discordapp.com/attachments/1126595847178686565/1199186325136486470/PurpleSkullTrooper.rd.csp"
+    },
+    {
+      "Name":"Steven Hawking",
+      "CreatorName": "Məh",
+      "Status": "Working",
+      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1201389334306242621/Hawking.png",
+      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1201389276659728544/Hawking.png",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1201964260612120668/49af8d19296948da9feafaac23dcb4e3.png",
+      "VerifiedUser": true,
+      "Type": 0,
+      "DownloadMessage":"I. Am. In. Fortnite. Now.",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Hawking.rd.csp"
     }
-
 ]
