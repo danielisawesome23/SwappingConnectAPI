@@ -418,7 +418,7 @@
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1202022114761396234/Epic_.png",
       "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-      "Rarity": ""https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
+      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1202022110470623242/Epic_blue.png",
       "VerifiedUser": true,
       "Type": 0,
