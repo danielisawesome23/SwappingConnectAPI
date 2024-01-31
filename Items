@@ -413,13 +413,13 @@
       "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoPinkGhoulRenegade_Raider.rd.csp"
     },
     {
-      "Name":"Epic Rank Concept Skin",
+      "Name":"Epic Rank Concept",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1202022114761396234/Epic_.png?ex=65cbf154&is=65b97c54&hm=bf092961815bfea29d7bb5680b636ea970f9f7efdc2fee58c28f5c811d7fd3a6&",
+      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1202022114761396234/Epic_.png",
       "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
       "Rarity": ""https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
-      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1202022110470623242/Epic_blue.png?ex=65cbf153&is=65b97c53&hm=608eda78a965f6027523d19951b46f14171dab8b2cce95f41b0ea5cf5ea0cd23&",
+      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1202022110470623242/Epic_blue.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Based off of the Epic-Rank Concept Skin.",
