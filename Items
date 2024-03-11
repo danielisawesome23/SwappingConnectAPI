@@ -3,14 +3,14 @@
     "Name":"Yeat",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197342229681934436/Yeat.png?ex=65baead9&is=65a875d9&hm=38a5e046140995d21cfeaf58bb719793e15f1333cdb12fd38a55370a078b6384&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197342261340549171/Yeat.png?ex=65baeae0&is=65a875e0&hm=cb5862406f3f7caafa22aba978b9434e6418c0bff16ca919ea665f94a7b8f782&",
-    "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193021901249974313/yeat-twizzy.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/YeatIco.png?raw=truefc",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/YeatBlue.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Yeat.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Perfect for Riding in Tonkas.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Yeat.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
     "Name":"Saturn Banner",
@@ -22,7 +22,7 @@
     "VerifiedUser": true,
     "Type": 4,
     "DownloadMessage":"Show your support! Banner for Fortnite.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Saturn.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
     "Name":"Galaxy Banner",
@@ -34,448 +34,436 @@
     "VerifiedUser": true,
     "Type": 4,
     "DownloadMessage":"Show your support! Banner for Fortnite.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Galaxy.rd.csp"
-  },
-  {
-    "Name":"Funked Up!",
-    "CreatorName": "nyaku",
-    "Status": "Working",
-    "Icon":"https://media.discordapp.net/attachments/932709983093669928/1196985032133328997/Boogie_Down_-_Emote_-_Fortnite.png",
-    "SwapIcon":"https://media.discordapp.net/attachments/932709983093669928/1196985144163192902/Boogie_Down_-_Emote_-_Fortnite_1.png?",
-    "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197062757237915708/image.png",
-    "VerifiedUser": true,
-    "Type": 3,
-    "DownloadMessage":"Goes great with the Employee. . .",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/galaxy/FunkedUp.plugin"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
     "Name":"Skeleton",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197342300632793128/Skeleton.png?ex=65baeaea&is=65a875ea&hm=e821e2ad2cef48ab7079e857010d9864aeb3fca387640d7bceed44ad5ab24b39&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197342401405132860/Skeleton.png?ex=65baeb02&is=65a87602&hm=ad458d645ad1a049dce4527e5a45619b7815fef62a226d13922981fd5bb23c6d&",
-    "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193038828357812254/nightbreedmidianbanner.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/SkeletonIco.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Skeleton.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Skeleton.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Spooky.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Skeleton.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
     "Name":"Neon",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197344658620170270/Neon.png?ex=65baed1c&is=65a8781c&hm=009b04ab0824e10b7f8a56256271fdfa821a390e5295e564df6ef375ddbe537f&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197344733660463204/Neon.png?ex=65baed2e&is=65a8782e&hm=80f5073333133e3a80d0adcd0cea29c71b9811741192ad6390da6a852c81f88a&",
-    "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193021375967920138/VALORANT_Neon_Card_Wide.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/NeonIco.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Neon.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Neon.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Agent from Valorant.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Neon.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
       "Name":"Omen",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197346612859650138/Omen.png?ex=65baeeee&is=65a879ee&hm=31b348ccffadb786afc4cbfe7dd9f0ed089b6ba5eeb7c756bd5e70c5bebb6238&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197346666563510292/Omen.png?ex=65baeefa&is=65a879fa&hm=6573807fb17a67f48fbc6cd4778a2a0644c48cdd133f66b9735f8cdea51b678a&",
-      "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197060458759340062/valorant-player-valorant-omen-card-wide.png",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/OmenIco.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+      "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Omen.png?raw=true",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Omen.png?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Agent from Valorant.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Omen.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
   {
     "Name":"Sage",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197345748136771696/Sage.png?ex=65baee1f&is=65a8791f&hm=a004f7fcec7d49f85ab225e3811081c2e275147d511c51aab6768f9274981ea0&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197345797730218145/Sage.png?ex=65baee2b&is=65a8792b&hm=1761d881ed591a601abfd60f01e7dbfd2b8502101f4c964f6b056c2bc9234b39&",
-    "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193021373937893446/VALORANT_Sage_Card_Wide.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/SageIco.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Sage.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Sage.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Agent from Valorant.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Sage.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
     "Name":"Killjoy",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197354171603636304/Killjoy.png?ex=65baf5f8&is=65a880f8&hm=a8354d6d2c5dc4614b06f1946ddbb623b006a1a3396ccd417be80307dd02e8c3&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197354255993016350/Killjoy.png?ex=65baf60c&is=65a8810c&hm=4efa184a75b52ab61dee250ce293ddfd7dfe7229f7ec9209a50d2f30ea8b8a89&",
-    "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197060899459047464/valorant-go-vol-1-killjoy-player-card-horizontal.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/KilljoyIco.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Killjoy.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Killjoy.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Agent from Valorant.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Killjoy.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
       "Name":"Shadow Polo Prodigy",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197355541450719333/Polo.png?ex=65baf73e&is=65a8823e&hm=6ff38595a08230adf658194818b86fc96aab3c0e1f8da5d90c4e719eadcae834&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197357446662995999/Polo.png?ex=65baf905&is=65a88405&hm=5e5058159310cde4fa5457eaf416dca10613115c79ae27dfe9cc60c0e7b78c71&",
-      "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195849941843706008/Most_Wanted_Quest_Background.JPG",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/PoloIco.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+      "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Polo.png?raw=true",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Most%20Wanted%20Quest%20Background.JPG?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Lurk in the Shadows.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Polo.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Shadow Summit-Striker Evie",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197360302170329160/Evie.png?ex=65bafbad&is=65a886ad&hm=b17e3edd57462aa9870ab393ddf08b968b1890db5397871e35cd16b13cba85a2&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197360376447246487/Evie.png?ex=65bafbbf&is=65a886bf&hm=1b871a78da5943a27e9064256746a17d66dd639b9b72812d29c1e01a0497a45e&",
-      "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195849941843706008/Most_Wanted_Quest_Background.JPG",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/StrikerIco.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+      "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Evie.png?raw=true",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Most%20Wanted%20Quest%20Background.JPG?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Lurk in the Shadows.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Summitseeker.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Shadow Kuno",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197361698814832770/Kuno.png?ex=65bafcfa&is=65a887fa&hm=c024077f8d4348f4432ff2b0bc7cbd8d0e8ef0e6a7e562b9627bb1efc5535c38&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197361749700124774/Kuno.png?ex=65bafd07&is=65a88807&hm=4cae9010d5087a3963d9550a05f53f648463fa668ac315567e290f0d6c77e84f&",
-      "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195849941843706008/Most_Wanted_Quest_Background.JPG",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/KunoIco.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+      "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Kuno.png?raw=true",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Most%20Wanted%20Quest%20Background.JPG?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Lurk in the Shadows.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Kuno.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Employee",
       "CreatorName": "Məh",
       "Status": "Working",
-      "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197369173316210788/Lethal.png?ex=65bb03f0&is=65a88ef0&hm=c3748346936d6a00db736cba88e6877223c7aaad1224e6af49162c9fabf99f99&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-      "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197369220065919146/Lethal.png?ex=65bb03fc&is=65a88efc&hm=0ca61190138d9c2cb84209e45f9ecc28a4ade2ac9851810f0470d6b590351453&",
-      "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195851144480694362/How-to-Use-Bigger-Lobby-Mod-in-Lethal-Company.png",
+      "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/Lethal.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+      "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Lethal.png?raw=true",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Lethal.png?raw=true",
       "VerifiedUser": true,
       "Type": 0,
-      "DownloadMessage":"Lurk in the Shadows.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Lethal.rd.csp"
+      "DownloadMessage":"Fucked Up",
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
   {
     "Name":"Jake Brussler",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197370437898862632/Jake.png?ex=65bb051e&is=65a8901e&hm=a5e1e262a3fb901bd555e96659a047e16e73ac05864add2db1840e59b8006edf&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197370481351860355/Jake.png?ex=65bb0528&is=65a89028&hm=d6a18f20d439ee3175e316a2b52a1f8831da28163b88812dea7d45bc972493f6&",
-    "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193039200933654678/subwaysurfers_banner.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/Jake.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Jake.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Subway.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Jake Brussler from Subway Surfers.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Jake.rd.csp"
+    "DownloadURL":"hhttps://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
     "Name":"Subway Cop",
     "CreatorName": "Məh",
     "Status": "Working",
-    "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197372921967018035/Cop.png?ex=65bb076e&is=65a8926e&hm=5f53f747efa8f43ed2b8bcd6b1e8452748c9a3b6304cac0680efd43625972ecc&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
-    "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197372970222489803/Cop.png?ex=65bb077a&is=65a8927a&hm=6f205bf440806dad41e6f2e321ebcaa4b3bdfd3830e40c9e1d0886571a836ee3&",
-    "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193039200933654678/subwaysurfers_banner.png",
+    "Icon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/skin/Cop.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
+    "ShowCaseImage": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/previews/Cop.png?raw=true",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Subway.png?raw=true",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"Inspector from Subway Surfers.",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Fat.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
       "Name":"Husk",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197373909880803358/Husk.png?ex=65bb085a&is=65a8935a&hm=3ec0ea1f181bae43091e3bd649bec4bcaa00bc503293a0c635711d2cd1a3323a&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197373952234901545/Husk.png?ex=65bb0864&is=65a89364&hm=d0df53a527fde8e7e9ba2f7233dfe6240f9b5fa459d79d32a9db624ffab31e6e&",
-      "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Fallback.png?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Husk from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Husk.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Zapper",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197374688976978020/Zapper.png?ex=65bb0913&is=65a89413&hm=090f421e8822eed6b8d5a0b9996e82a89d60c493e63d58d930c3e97580745ac3&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197374726264340561/Zapper.png?ex=65bb091c&is=65a8941c&hm=7fde19bd989a5676ed71678150b219831dfd9ef12a7ac6bb2edfc7a5384a3379&",
-      "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Fallback.png?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Zapper from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/CountryZapper.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Sci-Fi Zapper",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197375457776119890/SciFi.png?ex=65bb09cb&is=65a894cb&hm=7bbaae75714d2105a6c1bad3774237d37fda425d2a60a1611d1ae8397354e341&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197375512675360818/SciFi.png?ex=65bb09d8&is=65a894d8&hm=21e78536f0b265294897e526c95994d5dbf54a8d30fd4b56450aff0bf02445ce&",
-      "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png",
+      "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/Fallback.png?raw=true",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Sci-Fi Zapper from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/SciFiZapper.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Storm King",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197377475664154735/StormKing.png?ex=65bb0bac&is=65a896ac&hm=765d13277f30abeb260c5d84ab92949ea787e1d31c19b12eb7745ddeb5106c1f&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197377535344918651/StormKing.png?ex=65bb0bba&is=65a896ba&hm=ee5e73dc7d154c6370402f60c34d89fc399bbec481cf8de7454321b533174c3c&",
       "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1195853262071550095/The_Storm.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Storm King from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/StormKing.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Idris",
       "CreatorName": "Kizilando",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197412052650692618/Epic.png?ex=65bb2be0&is=65a8b6e0&hm=244d34b7529de0b579e66c2f0fb19e12a7b11e7d782d3863d2cde74087f6ecb1&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197412098305708084/Epic.png?ex=65bb2beb&is=65a8b6eb&hm=ecd9eeea1c23c2513e39a4fa6925c95dee9f965230ca51f61b441f1083df76f0&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoEpicGamesSurvivor.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Geek",
       "CreatorName": "Kizilando",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197409532322787388/Geek.png?ex=65bb2987&is=65a8b487&hm=2a62ad6ff0436c0eb0794db2b33e3181455ba0d33b51d870f0eb3b31393c61d8&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197409585632399442/Geek.png?ex=65bb2994&is=65a8b494&hm=25a52bb118d5b18488ee0ae18703cf763c0f3843e4692e463c864495bbc8aaae&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoGeek.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Construction",
       "CreatorName": "Kizilando",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197410194444013629/Construction.png?ex=65bb2a25&is=65a8b525&hm=e1bdc4aa1baf5508102cf80f8eb66c2af24005b00ff387fc76e950273890b942&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197410237569831042/Construction.png?ex=65bb2a2f&is=65a8b52f&hm=6e1a75112e0daca08c8459fa72663310fead7a001a0dab633a5796223c8a0ae1&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoConstruction.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Edgar",
       "CreatorName": "Kizilando",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197412793230565376/Edgar.png?ex=65bb2c90&is=65a8b790&hm=2a7a84c2c82ae37693e87b66359457766c66fd97bf32c432c517e40c69d4c819&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197412859529928764/Edgar.png?ex=65bb2ca0&is=65a8b7a0&hm=beb5041bf1cadad6300c4c020ac8962edb7b47de0bd506bc185ef2b87ab249f0&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoEdgar.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Fast Food",
       "CreatorName": "Kizilando",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197415907622924348/Fastfood.png?ex=65bb2f77&is=65a8ba77&hm=05fee7721d966beccdcfe6896d050e362317813dcf83e8bb8e7af7058cbb7c3b&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197415997456535582/Fastfood.png?ex=65bb2f8c&is=65a8ba8c&hm=40908e41198e6c6d5ca0d9aad0cb08842910141c2ba34bc5644e0c6b3d3f25b6&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoFastFood.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Powersuit",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197413549086093363/Powersuit.png?ex=65bb2d44&is=65a8b844&hm=f49ae9089be4350bdee4a445cde6533e4e1d3348d4c2c2d09e3b9fc7124f48f8&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197413597043761222/Powersuit.png?ex=65bb2d50&is=65a8b850&hm=c0a972be565cdec4b37255b8ea55fffabbd6381f82085a4d2ebabe0ffb3aec11&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoPowersuit.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Scavenger",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197414289632411719/Scavenger.png?ex=65bb2df5&is=65a8b8f5&hm=ec0b61497d2327ce17f7cc82aa464ac9c211869f768da6feb7c9b1ca676c6f61&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193041108817686668/OG_Item_Shop_Background_1.png?",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197414343478874193/Scavenger.png?ex=65bb2e02&is=65a8b902&hm=2ff1419695f8a9123d67d128e239e3386faaa9a82bf8191ade47f68b82911d6e&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Survivor from Save the World.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoScavenger.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Dogecoin",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197381585486487663/Doge.png?ex=65bb0f80&is=65a89a80&hm=3f87143c729331cc3c12ae54544741905b2b94623d30248a917ac481ad158002&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197381658815508622/Doge.png?ex=65bb0f91&is=65a89a91&hm=1b51a9e737bb295e7ac2610b3fe328acf06fadebe2c27804ec2039236f37f4ff&",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1197065519992418365/lnn013m32ss01.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Stocks can only go up.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Doge.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
     "Name":"Lloyd",
     "CreatorName": "Məh",
     "Status": "Working",
     "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197384097547440199/Lloyd.png?ex=65bb11d7&is=65a89cd7&hm=69fc5a46f8470a077b666145e7b383200f9d9d10912d606c79623e81613e1161&",
-    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+    "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
     "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197384162965979197/Lloyd.png?ex=65bb11e6&is=65a89ce6&hm=9e4972605a7d0182ac1de4c750ca03d20218b213a5bb5b2c691758c6915d8ed6&",
     "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193042623531843624/DKeutiDUIAAPs2C.png",
     "VerifiedUser": true,
     "Type": 0,
     "DownloadMessage":"La-Loyd? How could I ruin your life? I wasn't even there!",
-    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Lloyd.rd.csp"
+    "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
   {
       "Name":"M.X.E.S",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197386074629095545/MXES.png?ex=65bb13ae&is=65a89eae&hm=88a841bedf7b88ae30d1681c69e2f7747642a8f859931e1f19830d60d32b7238&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197386129436061816/MXES.png?ex=65bb13bb&is=65a89ebb&hm=a7e11a02a2c046f8c7bc606751b1ceced18c5ab11431afc24b5d390bc73329ac&",
       "Rarity": "https://media.discordapp.net/attachments/1128736099070648361/1193043264387952661/27e5913e401960ad17e24f9a435e11d2.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"M.X.E.S from Security Breach: Ruin.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Mxes.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Glamrock Bonnie",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197387158688907284/Bonnie.png?ex=65bb14b1&is=65a89fb1&hm=a86c8ad8a6a17073282541c3b5ee0a55eb5feb3fc69709abe857e0ac5188aa77&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197387225487384586/Bonnie.png?ex=65bb14c0&is=65a89fc0&hm=8f218f35fa7224d6d70f441b4db27d6b6cb6b69463e709aa0c8dc763c17a3d5c&",
       "Rarity": "https://media.discordapp.net/attachments/1128736099070648361/1193043264387952661/27e5913e401960ad17e24f9a435e11d2.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Glamrock Bonnie from Security Breach: Ruin.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Bonnie.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Ghoul Renegade",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197399749117091880/Ghoul.png?ex=65bb206a&is=65a8ab6a&hm=7065567acc86c5cfba6206aa4fbcb88b0b1cf45bcfc67083fe5fc30dbfa2b651&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197399790670061638/Ghoul.png?ex=65bb2074&is=65a8ab74&hm=d97def9c8b694368a33f8b39957c696eaca7bf70a388bb84e05156ce755c2167&",
       "Rarity": "https://cdn.discordapp.com/attachments/995288416671518752/1195850482334322698/ScreenShot00000.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Rare Renegade Ghoul Outfit.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoGhoulRenegade_Raider.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Pink Ghoul Renegade",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197401475698151445/PinkGhoul.png?ex=65bb2206&is=65a8ad06&hm=761e85eb4d877059b218c3d279b346118ec0bf88e77a4d046819d79ef82f5334&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197401553934495784/PinkGhoul.png?ex=65bb2219&is=65a8ad19&hm=34d52b80422db96a8cb765957b31c5aff73947c24a57babb960d1b1e55fa8af7&",
       "Rarity": "https://cdn.discordapp.com/attachments/995288416671518752/1195850482334322698/ScreenShot00000.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Rare Renegade Ghoul Outfit.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/DefaulttoPinkGhoulRenegade_Raider.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Epic Rank Concept",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1202022114761396234/Epic_.png",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1198828964911792198/rare.png",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1202022110470623242/Epic_blue.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Based off of the Epic-Rank Concept Skin.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/EpicRank.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Saul Goodman",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197403780061335644/Saul.png?ex=65bb242b&is=65a8af2b&hm=10dcae9746d8d88f58a63d71cda65b398b2434eb801abab51226283a2ff685d9&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193045843608096787/BetterCallSaul-OriginalSoundtrack-Banner.png",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197403827922542702/Saul.png?ex=65bb2437&is=65a8af37&hm=be9d35797522a0a191b50c82d75ab623e39e9f227e763d92f6e190fbb56b2a03&",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Top-tier Lawyer.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Saul.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Fortnite Gun",
       "CreatorName": "Valve",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197405367274049576/gun.png?ex=65bb25a6&is=65a8b0a6&hm=ec7777d5f211ea529007eee223ce8803a58bc282f876a82fc13d449e5bcc4042&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/jackie.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197405409129017344/gun.png?ex=65bb25b0&is=65a8b0b0&hm=6a2f01eda9b20d1c23e2ace10955b46bb397e2f0b1311ff9c94ceca46b41e83c&",
       "Rarity": "https://media.discordapp.net/attachments/1126595847178686565/1193045843134136320/featured.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Please play with the safety on.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Gun.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Prime",
       "CreatorName": "Məh",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197405880409411604/Prime.png?ex=65bb2620&is=65a8b120&hm=dfe7a59b954238bd6641b183e6ae04d2157840f7c43c67729fbceaec23ed1838&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197405906112106577/Prime.png?ex=65bb2626&is=65a8b126&hm=55a3f27364b270d9d6377f33fe1cde45f8d94753f376bb9f2ed1e05cc2104db7&",
       "Rarity": "https://cdn.discordapp.com/attachments/1128736099070648361/1193050357853589524/1Cqre1DiBoW2rH5Mxt6fxUw.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Brainrot fuel",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Prime.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
         {
       "Name":"Roasted Chicken",
       "CreatorName": "Valve",
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1197406825696481320/Chicken.png?ex=65bb2701&is=65a8b201&hm=72da75ba810ba7781373d454bba39d8acc2839de0f42374a7f934b50896b1b7b&",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/jackie.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1197406905547620352/Chicken.png?ex=65bb2715&is=65a8b215&hm=183134be10620d3ff9f73474f40e56606c8de0cd47000f3f80c8062695c356f9&",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1193051979698679858/1000_F_460243796_ZGo8yWAA59VwpyQf6s7mL0WJqzSXGiWF.jpg",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Wyh do my chickens keep blowing up!",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Chicken.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Re-OG to Backr00ms",
@@ -487,7 +475,7 @@
       "VerifiedUser": true,
       "Type": 6,
       "DownloadMessage":"Playboi Carti's Latest Release.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Backr00ms.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Steven Hawking",
@@ -495,12 +483,12 @@
       "Status": "Working",
       "Icon":"https://cdn.discordapp.com/attachments/1126595847178686565/1201389334306242621/Hawking.png",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1201389276659728544/Hawking.png",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1201964260612120668/49af8d19296948da9feafaac23dcb4e3.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"I. Am. In. Fortnite. Now.",
-      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/raw/main/plugins/meh/Hawking.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     },
     {
       "Name":"Skull Trooper (Green Glow) to Purple Skull trooper",
@@ -508,11 +496,11 @@
       "Status": "Working",
       "Icon":"https://media.discordapp.net/attachments/1126595847178686565/1199185731625680996/purpleskull.png",
       "ShowCaseImage": "https://cdn.discordapp.com/attachments/1126595847178686565/1199185717868368085/PurpleSkullBG.png",
-      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/plugins/icons/optionIco/DefaultSkin.png?raw=true",
+      "SwapIcon":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/icons/swapfrom/DefaultSkin.png?raw=true",
       "Rarity": "https://cdn.discordapp.com/attachments/1126595847178686565/1199186112405590016/epic.png",
       "VerifiedUser": true,
       "Type": 0,
       "DownloadMessage":"Victory runs bone-deep.",
-      "DownloadURL":"https://cdn.discordapp.com/attachments/1126595847178686565/1199186325136486470/PurpleSkullTrooper.rd.csp"
+      "DownloadURL":"https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
     }
 ]
