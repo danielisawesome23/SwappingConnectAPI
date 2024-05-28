@@ -11,5 +11,44 @@
     "VerifiedUser": false,
     "Description": "This is a concept made by DANNEH, please give them credit!",
     "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
+  },
+    {
+    "Name": "Hatsune Miku",
+    "CreatorName": "EpicDoge",
+    "Status": "Working",
+    "Swapper": "Galaxy",
+    "Type": "Skin",
+    "Icon": "https://fortnite.gg/img/items/12288/icon.png",
+    "ShowCaseImage": "https://fortnite.gg/img/items/12288/icon.png",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/CreatorCollabSeries.png?raw=true",
+    "VerifiedUser": false,
+    "Description": "Thanks for download my plugin! -EpicDoge",
+    "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
+  },
+  {
+    "Name": "Skeleton",
+    "CreatorName": "EpicDoge",
+    "Status": "Working",
+    "Swapper": "Galaxy",
+    "Type": "Skin",
+    "Icon": "https://i.imgur.com/S490uqL.png",
+    "ShowCaseImage": "https://i.imgur.com/S490uqL.png",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/ShadowSeries.png?raw=true",
+    "VerifiedUser": false,
+    "Description": "Thanks for download my plugin! -EpicDoge",
+    "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
+  },
+  {
+    "Name": "Cash Carti",
+    "CreatorName": "EpicDoge",
+    "Status": "Working",
+    "Swapper": "Galaxy",
+    "Type": "Skin",
+    "Icon": "https://i.imgur.com/k96SH8Z.png",
+    "ShowCaseImage": "https://i.imgur.com/k96SH8Z.png",
+    "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/CreatorCollabSeries.png?raw=true",
+    "VerifiedUser": false,
+    "Description": "Thanks for download my plugin! -EpicDoge",
+    "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   }
 ]
