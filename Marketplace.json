@@ -12,18 +12,18 @@
     "Description": "This is a concept made by DANNEH, please give them credit!",
     "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
   },
-    {
+  {
     "Name": "Hatsune Miku",
     "CreatorName": "EpicDoge",
     "Status": "Working",
     "Swapper": "Galaxy",
     "Type": "Skin",
-    "Icon": "https://fortnite.gg/img/items/12288/icon.png",
-    "ShowCaseImage": "https://fortnite.gg/img/items/12288/icon.png",
+    "Icon": "https://i.imgur.com/ijKdyEu.png",
+    "ShowCaseImage": "https://i.imgur.com/ijKdyEu.png",
     "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/CreatorCollabSeries.png?raw=true",
     "VerifiedUser": false,
     "Description": "Thanks for download my plugin! -EpicDoge",
-    "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
+    "DownloadURL": "https://github.com/EpicDogePlays/swapperplugins/raw/main/main/Miku.plugin"
   },
   {
     "Name": "Skeleton",
@@ -36,7 +36,7 @@
     "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/ShadowSeries.png?raw=true",
     "VerifiedUser": false,
     "Description": "Thanks for download my plugin! -EpicDoge",
-    "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
+    "DownloadURL": "https://github.com/EpicDogePlays/swapperplugins/raw/main/main/Skeleton.plugin"
   },
   {
     "Name": "Cash Carti",
@@ -49,6 +49,6 @@
     "Rarity": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/rarity/CreatorCollabSeries.png?raw=true",
     "VerifiedUser": false,
     "Description": "Thanks for download my plugin! -EpicDoge",
-    "DownloadURL": "https://github.com/danielisawesome23/SwappingConnectAPI/blob/main/API/downloadables/placeholder.txt"
+    "DownloadURL": "https://github.com/EpicDogePlays/swapperplugins/raw/main/main/CashCarti.plugin"
   }
 ]
