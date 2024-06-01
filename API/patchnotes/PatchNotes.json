@@ -3,11 +3,12 @@
       "Title": "Release",
       "Description": "by daniel is cool",
       "Tags": ["News"]
+      "Text": "You have beta access !"
     },
     {
-      "Title": "V3.0.0 Content",
-      "Description": "by daniel is cool",
-      "URL": "urlwhenweclick (not required)",
-      "Tags": ["Patch Notes"]
+      "Title": "Beta Content",
+      "Description": "by LLRIX",
+      "Tags": ["Patch Notes"],
+      "Text": "Currently we are too busy working on fixing all the bugs since SCV3 is currently in beta, once the application is fully released we will add the patch notes here, thanks for understanding 😊"
     }
   ]
